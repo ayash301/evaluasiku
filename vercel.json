@@ -1,0 +1,3 @@
+{
+  "buildCommand": "node --input-type=module ./node_modules/vite/bin/vite.js build"
+}
